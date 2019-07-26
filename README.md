@@ -2,7 +2,7 @@
 
 **IP ADDRESS INFO SCRAPER**
 
-##usage:
+## Usage:
 
 -For help menu
 
